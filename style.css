@@ -1,0 +1,27 @@
+h1{
+    color: rgb(246, 237, 237);
+    font-weight: 2em;
+    font-size: 2em;
+
+}
+
+
+h3{
+   font-weight: bold; 
+   font-size: 2em;
+}
+pre{
+    font-weight: bold;
+    color: black;
+    font-style: italic;
+    font-size: 1.2em;
+}
+div{
+    background-color: aquamarine;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+}
+body{
+    background: radial-gradient(green,blue);
+}
